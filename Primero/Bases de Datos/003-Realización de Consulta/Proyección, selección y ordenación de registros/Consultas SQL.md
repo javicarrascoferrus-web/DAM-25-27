@@ -8,11 +8,11 @@ Asumo una tabla clientes con las columnas: nombre, apellidos, telefono, email.
 
 Selección con comodín de inicio: WHERE apellidos LIKE 'Castro%' devuelve filas donde el apellido empieza por “Castro”.
 
-Ordenación descendente: ORDER BY apellidos DESC coloca de Z→A.
+**Ordenación descendente:** ORDER BY apellidos DESC coloca de Z→A.
 
-Proyección de columnas: SELECT nombre, apellidos devuelve solo esas columnas.
+**Proyección de columnas:** SELECT nombre, apellidos devuelve solo esas columnas.
 
-Ordenación por varios criterios: ORDER BY apellidos ASC, nombre ASC aplica orden alfabético por apellido y, en empates, por nombre.
+**Ordenación por varios criterios:** ORDER BY apellidos ASC, nombre ASC aplica orden alfabético por apellido y, en empates, por nombre.
 
 Detalles a tener en cuenta:
 
@@ -21,21 +21,21 @@ Colaciones/acentos pueden afectar el orden y la comparación (p. ej. “Álvarez
 LIKE distingue o no mayúsculas según la colación; si hay dudas, normalizar o usar funciones (LOWER()).
 
 
-Ejercicio 1: Comodín de inicio (apellidos que empiecen por “Castro”)
+**Ejercicio 1: Comodín de inicio (apellidos que empiecen por “Castro”)**
 SELECT nombre, apellidos, telefono, email
 FROM clientes
 WHERE apellidos LIKE 'Castro%';
 
-Ejercicio 2: Ordenar por apellidos en orden descendente
+**Ejercicio 2: Ordenar por apellidos en orden descendente**
 SELECT nombre, apellidos, telefono, email
 FROM clientes
 ORDER BY apellidos DESC;
 
-Ejercicio 3: Proyección (solo nombres y apellidos)
+**Ejercicio 3: Proyección (solo nombres y apellidos)**
 SELECT nombre, apellidos
 FROM clientes;
 
-Ejercicio 4: Varios criterios (apellidos ASC, nombre ASC)
+**Ejercicio 4: Varios criterios (apellidos ASC, nombre ASC)**
 SELECT nombre, apellidos, telefono, email
 FROM clientes
 ORDER BY apellidos ASC, nombre ASC;
