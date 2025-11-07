@@ -5,7 +5,7 @@ En SQL, los operadores de comparación (como >, <, =, <>, >=, <=) permiten filtr
 En este ejercicio voy a practicar ambos conceptos con la tabla productos, que contiene información básica de los artículos (por ejemplo: nombre, precio y un campo que indica si necesitan carga o transporte). A partir de ahí, haré dos consultas distintas: una usando operadores de comparación y otra usando alias y cálculos sencillos.
 
 
-##**Operadores de comparación**##
+**Operadores de comparación**
 
 Objetivo: Mostrar el nombre y precio de los productos, e incluir dos campos nuevos:
 
@@ -17,7 +17,7 @@ precio_transporte → muestra un costo adicional (por ejemplo, 15 €) si necesi
 Para lograrlo, puedo usar los operadores de comparación (=) directamente en una expresión con el operador ternario de MySQL (CASE WHEN no se puede usar porque el enunciado lo prohíbe, pero puedo combinar comparaciones y multiplicaciones lógicas).
 Por ejemplo, al comparar una condición como (necesita_carga = 'Sí'), MySQL devuelve 1 si es verdadera o 0 si es falsa. Esto permite hacer pequeños cálculos lógicos sin IF.
 
-##**Alias de columna**##
+**Alias de columna**
 
 Objetivo: Mostrar el nombre y precio, renombrándolos como:
 
@@ -34,7 +34,8 @@ Total Precio: calculado como precio + (precio * 0.21)
 Todo usando alias para mostrar nombres más claros en los resultados.
 
 
-##**Operadores de comparación**##
+**Operadores de comparación**
+
 SELECT
   nombre,
   precio,
@@ -58,7 +59,8 @@ Mesa madera	200.00	1	30.00
 Camiseta blanca	25.00	0	0.00
 
 
-##**Alias de columna**
+**Alias de columna**
+
 SELECT
   nombre AS 'Nombre del Producto',
   precio AS 'Precio Base',
