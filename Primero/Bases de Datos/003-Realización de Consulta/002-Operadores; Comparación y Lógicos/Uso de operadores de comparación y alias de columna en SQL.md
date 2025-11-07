@@ -17,7 +17,7 @@ precio_transporte → muestra un costo adicional (por ejemplo, 15 €) si necesi
 Para lograrlo, puedo usar los operadores de comparación (=) directamente en una expresión con el operador ternario de MySQL (CASE WHEN no se puede usar porque el enunciado lo prohíbe, pero puedo combinar comparaciones y multiplicaciones lógicas).
 Por ejemplo, al comparar una condición como (necesita_carga = 'Sí'), MySQL devuelve 1 si es verdadera o 0 si es falsa. Esto permite hacer pequeños cálculos lógicos sin IF.
 
-##**🔹 Segundo ejercicio: Alias de columna**##
+##**Segundo ejercicio: Alias de columna**##
 
 Objetivo: Mostrar el nombre y precio, renombrándolos como:
 
