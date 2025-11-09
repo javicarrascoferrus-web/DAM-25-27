@@ -13,67 +13,109 @@
 3) Aplicación práctica (SQL listo para ejecutar) (25%)
 ### 1) Crear la base de datos
 CREATE DATABASE IF NOT EXISTS biblioteca_carlos
+
   DEFAULT CHARACTER SET utf8mb4
+  
   DEFAULT COLLATE utf8mb4_unicode_ci;
+  
 USE biblioteca_carlos;
+
 
 
 
 ### 2) Crear tablas
 CREATE TABLE IF NOT EXISTS autores (
   id_autor   INT AUTO_INCREMENT PRIMARY KEY,
+  
   nombre     VARCHAR(120) NOT NULL,
+  
   email      VARCHAR(150) UNIQUE,
+  
   web        VARCHAR(200)
 ) ENGINE=InnoDB;
 
 
 
 CREATE TABLE IF NOT EXISTS entradas (
+
   id_entrada INT AUTO_INCREMENT PRIMARY KEY,
+  
   titulo     VARCHAR(200) NOT NULL,
+  
   anio       INT,
+  
   genero     VARCHAR(80),
+  
   autor_id   INT NOT NULL,
+  
   -- 3) Clave foránea (relación con autores)
+  
   CONSTRAINT fk_entradas_autor
+  
     FOREIGN KEY (autor_id)
+    
     REFERENCES autores(id_autor)
+    
     ON UPDATE CASCADE
+    
     ON DELETE RESTRICT
+    
 ) ENGINE=InnoDB;
 
 
 
 ### 4) Insertar datos en AUTORES
+
 -- (Usa aquí los valores del archivo "005-insercion de datos de muestra.sql")
+
 -- Ejemplo mínimo por si necesitas probar rápido:
+
 INSERT INTO autores (nombre, email, web) VALUES
+
   ('Isabel Allende', 'isabel@example.com', 'https://isabel-allende.test'),
+  
   ('Haruki Murakami', 'murakami@example.com', 'https://murakami.test'),
+  
   ('Ursula K. Le Guin', 'ursula@example.com', 'https://le-guin.test');
+  
 
 
 
 ### 5) Insertar datos en ENTRADAS (algunos ejemplos)
+
 INSERT INTO entradas (titulo, anio, genero, autor_id) VALUES
+
   ('La casa de los espíritus', 1982, 'Realismo mágico', 1),
+  
   ('Tokio Blues', 1987, 'Ficción', 2),
+  
   ('Los desposeídos', 1974, 'Ciencia ficción', 3);
+  
 
   
 
 ### 6) Consulta compleja con LEFT JOIN
+
 SELECT
+
   e.id_entrada,
+  
   e.titulo,
+  
   e.anio,
+  
   e.genero,
+  
   a.nombre AS autor,
+  
   a.email  AS email_autor
+  
 FROM entradas e
+
 LEFT JOIN autores a ON a.id_autor = e.autor_id
+
 ORDER BY e.titulo;
+
 
 
 El fichero con los INSERT de autores, puedes importarlo así:
