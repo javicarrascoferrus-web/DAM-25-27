@@ -31,7 +31,7 @@ WHERE id = 3;
 
 
 
-**Eliminaciones **:
+**Eliminaciones**:
 
 START TRANSACTION;
 
@@ -46,7 +46,7 @@ WHERE id = 4;
 COMMIT;
 
 
-**Verificación**
+**Verificación**:
 
 Para Comprobar estado actual:
 
