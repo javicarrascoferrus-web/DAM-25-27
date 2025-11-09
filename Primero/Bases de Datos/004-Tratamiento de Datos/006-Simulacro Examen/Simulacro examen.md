@@ -48,7 +48,7 @@ CREATE TABLE IF NOT EXISTS entradas (
   
   autor_id   INT NOT NULL,
   
-  -- 3) Clave foránea (relación con autores)
+  ### 3) Clave foránea (relación con autores)
   
   CONSTRAINT fk_entradas_autor
   
