@@ -50,7 +50,7 @@ CREATE TABLE IF NOT EXISTS piezas (
 	
   fecha      DATE,
 	
-  imagen     VARCHAR(300),   -- URL de la imagen
+  imagen     VARCHAR(300),   
 	
   autor_id   INT NOT NULL,
 	
@@ -90,7 +90,7 @@ VALUES (
 
 
 
-**Vista cruzada*:
+**Vista cruzada**
 
 CREATE OR REPLACE VIEW piezas_con_autores AS
 
