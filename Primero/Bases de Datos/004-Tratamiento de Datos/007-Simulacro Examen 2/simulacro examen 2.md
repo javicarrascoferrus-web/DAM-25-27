@@ -22,6 +22,8 @@ CREATE DATABASE IF NOT EXISTS portafolio
 USE portafolio;
 
 
+
+
 **Tablas**
 
 
@@ -64,6 +66,10 @@ CREATE TABLE IF NOT EXISTS piezas (
 ) ENGINE=InnoDB;
 
 
+
+
+
+
 **Insertar datos**:
 
 INSERT INTO autores (nombre, apellidos, email)
@@ -79,6 +85,9 @@ VALUES (
   'Cartel A2 hecho en Illustrator con paleta limitada.',
 	
   '2024-10-15',
+
+
+
 
 
 **Vista cruzada*:
