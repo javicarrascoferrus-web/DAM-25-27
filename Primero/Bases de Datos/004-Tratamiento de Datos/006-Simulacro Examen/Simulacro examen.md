@@ -10,7 +10,6 @@
 
 
 
-3) Aplicación práctica (SQL listo para ejecutar) (25%)
 ### 1) Crear la base de datos
 CREATE DATABASE IF NOT EXISTS biblioteca_carlos
 
