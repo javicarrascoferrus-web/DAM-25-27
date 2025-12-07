@@ -1,1 +1,1 @@
-# DAM-25-27
+Pequeño apartado de apuntes de todo el primer curso de Desarrollo Apliaciones Multiplataforma
