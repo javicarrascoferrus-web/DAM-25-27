@@ -7,6 +7,7 @@ Entra en github.com y crea la cuent
 Verifica el email 
 
 
+
 **Crear repositorio remoto**
 
 Botón New (arriba a la izquierda).
@@ -19,6 +20,7 @@ No marques plantilla si ya tienes proyecto local
 
 Create repository.
 
+
 **Clonar con GitHub Desktop**
 
 Abre GitHub Desktop < File > Clone repository…
@@ -29,11 +31,13 @@ Elige carpeta local
 
 Nota: Si ya tienes el proyecto en otra carpeta, mueve tus archivos a la carpeta clonada para evitar mezclar repos.
 
+
 **Poner el código del proyecto en la carpeta clonada**
 
 Copia los .py del proyecto a la carpeta clonada.
 
 Vuelve a GitHub Desktop: verás los cambios en Changes.
+
 
 **Primer commit y push**
 
