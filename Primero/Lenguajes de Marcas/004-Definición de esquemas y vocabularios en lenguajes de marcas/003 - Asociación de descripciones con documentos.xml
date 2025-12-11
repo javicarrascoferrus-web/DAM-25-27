@@ -1,0 +1,53 @@
+En este ejercicio la idea no es tanto crear un XML desde cero, sino aprender a arreglar uno que está mal hecho según unas reglas.
+Tenemos tres piezas:
+Un documento XML “problemático” → 004-documento no valido.xml.
+Un esquema XSD → 002-plantilla.xsd, que define cómo debería ser el XML.
+Un script en Python → 005-validar de nuevo.py, que comprueba si el XML cumple o no las normas del XSD
+
+La primera parte del ejercicio es abrir el archivo "004-documento no valido.xml" en el editor y ver los problemas que hay.
+En segundo lugar, toca mirar el archivo 002-plantilla.xsd.
+	En el cual saco las reglas mas importantes que el XML tiene que cumplir;
+	El elemento raíz debe llamarse entrenamiento.
+Dentro de <entrenamiento> tiene que haber, en este orden:
+<nadador> (texto)
+<estilo> (texto)
+<metros> (entero)
+<tiempo> (texto)
+	
+El siguiente paso es ejecutar 005-validar de nuevo.py
+	
+from lxml import etree
+
+xsd_file = "002-plantilla.xsd"
+xml_file = "004-documento no valido.xml"
+
+# Cargar el XML
+xml_doc = etree.parse(xml_file)
+
+# Validar
+try:
+    schema.assertValid(xml_doc)
+    print("El documento XML es VÁLIDO.")
+except etree.DocumentInvalid as e:
+    print("El documento XML NO es válido.")
+    print(e)
+
+	
+Con las reglas del XSD en la mano y los mensajes del script, voy retocando el 004-documento no valido.xml hasta dejarlo correctamente.
+	
+Por ejemplo:
+	<?xml version="1.0" encoding="UTF-8"?>
+<entrenamiento fecha="2025-05-10">
+  <nadador>Javier Martínez</nadador>
+  <estilo>Crol</estilo>
+  <metros>1500</metros>
+  <tiempo>00:32:45</tiempo>
+</entrenamiento>
+
+	
+En resumen, en este ejercicio he hecho:
+
+Revisar un XML no válido (004-documento no valido.xml) y buscar a ojo posibles problemas.
+Consultar el esquema XSD (002-plantilla.xsd) para entender qué estructura exacta se espera.
+Usar un script en Python (005-validar de nuevo.py) para comprobar si el XML cumple esas reglas.
+Corregir el XML (etiquetas, orden, atributos, tipos de datos) hasta que el validador lo da por bueno.
