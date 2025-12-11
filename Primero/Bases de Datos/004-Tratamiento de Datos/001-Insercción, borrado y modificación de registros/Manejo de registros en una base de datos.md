@@ -1,4 +1,4 @@
-En administración de bases de datos, cada acción que modifica o elimina información debe ir precedida de una copia de seguridad fiable. Hoy vas a (1) crear un backup de la base de datos empresarial, (2) ejecutar un script que elimina registros de la tabla clientes, y (3) modificar un registro concreto con UPDATE.
+En administración de bases de datos, cada acción que modifica o elimina información debe ir precedida de una copia de seguridad fiable. Hoy vas a crear un backup de la base de datos empresarial, ejecutar un script que elimina registros de la tabla clientes, y modificar un registro concreto con UPDATE.
 
 **mysqldump** es la utilidad de línea de comandos de MySQL para volcar la estructura y los datos de una o varias bases de datos a un archivo de texto SQL.
 
