@@ -38,11 +38,11 @@ def imprimeMenu() -> None:
 
 
  print("\=Gestor de Clientes =")
-    print("1) Crear tabla")
-    print("2) Insertar cliente")
-    print("3) Listar clientes")
-    print("4) Buscar cliente por email")
-    print("5) Salir")
+  		  print("1) Crear tabla")
+  		  print("2) Insertar cliente")
+   		 print("3) Listar clientes")
+   		 print("4) Buscar cliente por email")
+ 		   print("5) Salir")
 		
 		
 		
