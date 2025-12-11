@@ -8,4 +8,4 @@ En administración de bases de datos, cada acción que modifica o elimina inform
 **UPDATE** cambia valores de columnas en filas que cumplan una condición. 
 La cláusula WHERE es crucial para acotar la modificación a las filas correctas.
 
-	He creado una copia de seguridad fiable con mysqldump, has ejecutado un script de eliminación masiva de registros con criterio y, por último, has realizado una modificación puntual con UPDATE … WHERE
+He creado una copia de seguridad fiable con mysqldump, has ejecutado un script de eliminación masiva de registros con criterio y, por último, has realizado una modificación puntual con UPDATE … WHERE
