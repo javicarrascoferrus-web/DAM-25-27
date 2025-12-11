@@ -24,10 +24,10 @@ Ejemplo:
 Alumno (N) — (M) Curso
 → Tabla Matricula(AlumnoID, CursoID).
 
-4️⃣ Relaciones 1 : 1
+**Relaciones 1 : 1**
 
 Se puede poner la PK de una entidad como FK en la otra, normalmente donde tenga más sentido o más dependencia.
 
-5️⃣ Atributos multivalorados
+**Atributos multivalorados**
 
 Se crean en una tabla aparte, con una FK hacia la entidad original.
