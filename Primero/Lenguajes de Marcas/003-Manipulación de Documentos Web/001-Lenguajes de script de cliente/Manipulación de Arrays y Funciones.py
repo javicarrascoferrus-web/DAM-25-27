@@ -9,7 +9,6 @@ console.log("Contenido del array:", especiesAnimales);
 **Función para mostrar especies**
 
 function mostrarEspecies(array) {
-
     console.log("Especies en el array:"
     
     
@@ -22,13 +21,9 @@ mostrarEspecies(especiesAnimales);
 **Operadores de comparación**:
 
 console.log("Número de especies:", especiesAnimales.length);
-
 console.log("¿Hay menos de 5 especies?", especiesAnimales.length < 5);
-
 console.log("¿Hay 5 o menos especies?", especiesAnimales.length <= 5);
-
 console.log("¿Hay más de 5 especies?", especiesAnimales.length > 5);
-
 console.log("¿Hay 5 o más especies?", especiesAnimales.length >= 5);
 ​
 ​
