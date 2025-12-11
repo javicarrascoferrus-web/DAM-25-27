@@ -7,7 +7,7 @@ La clave primaria (PK) de la entidad será la PK de la tabla.
 Ejemplo:
 Entidad Alumno(DNI, Nombre, Edad) → Tabla ALUMNO con esas columnas.
 
-** Relaciones 1 : N → Clave ajena (FK)**
+**Relaciones 1 : N → Clave ajena (FK)**
 
 En una relación uno a muchos, la clave primaria de la entidad del lado 1 pasa como clave ajena (FK) a la tabla del lado N.
 
