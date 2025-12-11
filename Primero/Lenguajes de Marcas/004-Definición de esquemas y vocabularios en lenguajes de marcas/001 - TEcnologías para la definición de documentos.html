@@ -1,0 +1,61 @@
+
+XML → Muy usado para configuración, intercambio de datos, etc.
+JSON → Formato típico en APIs y aplicaciones web modernas.
+HTML → Lo que ve el usuario en el navegador (las páginas web).
+
+#### Crear natacion.xml con etiquetas personalizadas
+
+Ahora creo un archivo nuevo llamado natacion.xml.
+Copio la estructura básica pero cambio:
+Las etiquetas <nombre> → <nombre_natacion>
+Las etiquetas <apellidos> → <apellidos_natacion>
+
+El contenido por mis propios datos.
+	
+
+	<?xml version="1.0" encoding="UTF-8"?>
+<persona>
+  <nombre_natacion>Javier</nombre_natacion>
+  <apellidos_natacion>Carrasco Ferrús</apellidos_natacion>
+</persona>
+	
+	
+Aquí la estructura es distinta a XML, pero la idea es la misma: representar datos.
+Está todo dentro de { ... }, que indica un objeto JSON.
+"nombre" y "apellidos" son claves (keys).
+"Javier" y "Carrasco Ferrús" son los valores asociados a esas claves
+	
+	{
+  "nombre": "Javier",
+  "apellidos": "Carrasco Ferrús"
+}
+
+	Crear natacion.html con contenido personalizado
+
+Ahora creo un archivo llamado natacion.html y copio la estructura básica, pero cambiando el texto del párrafo para hablar de mi hobby de natación.
+	
+	Código básico de html: 
+	
+	<!doctype html>
+<html>
+  <head>
+  </head>
+  <body>
+    <p>Me encanta nadar y hacer el cabra en el agua</p>
+  </body>
+</html>
+
+
+	En este ejercicio he trabajado con tres formatos distintos que, al final, están todos relacionados con el desarrollo web y con el manejo de datos:
+
+XML → Datos estructurados con etiquetas.
+
+JSON → Datos estructurados con pares clave-valor, ideal para APIs.
+
+HTML → Estructura y contenido de una página web.
+
+Todos representan información parecida (nombre y apellidos, y un texto sobre natación), pero cada uno se usa en un contexto diferente:
+
+XML y JSON son perfectos para intercambiar datos entre aplicaciones, guardar configuración o definir información que leerá un programa.
+
+HTML es lo que vería el usuario final en su navegador, por ejemplo, en la ficha de un nadador o en una página de un club de natación.
