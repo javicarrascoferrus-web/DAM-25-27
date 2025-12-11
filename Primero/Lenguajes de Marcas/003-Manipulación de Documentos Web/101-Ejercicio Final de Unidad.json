@@ -1,0 +1,71 @@
+Objetivo: construir una página CV que cargue los datos desde un JSON (o XML) mediante JavaScript + fetch y los pinte en HTML, con una estructura y nivel de detalle propios de un currículum real: datos personales, formación, experiencia, idiomas, vehículos, aficiones y hobbies.
+
+**Archivo de CV.json de Javier:**
+
+{
+  "personales": {
+    "nombre": "Javier",
+    "apellidos": "Carrasco Ferrús",
+    "email": "javicarrascoferrus@gmail.com",
+    "telefono": "+34 685 573 959",
+    "direccion": "C/ Gran Vía 123, Valencia",
+    "web": "https://github.com/javier",
+    "perfil": "Estudiante de DAM con interés en desarrollo web y bases de datos."
+  },
+  "formacion": [
+    { "titulo": "SMR ", "centro": "IES TAME", "inicio": "2023", "fin": "2025" },
+
+  ],
+  "experiencia": [
+    { "puesto": "Prácticas de desarrollo web", "empresa": "Agencia Microsoft", "inicio": "2025-03", "fin": "2025-06", "tareas": ["Maquetación y digitalización", "Soporte en componentes JS", "Pequeñas correcciones de CSS"] }
+  ],
+  "idiomas": [
+    { "idioma": "Español", "nivel": "Nativo" },
+    { "idioma": "Inglés", "nivel": "B2" },
+    { "idioma": "Valenciano", "nivel": "B1" }
+  ],
+  "vehiculos": ["B", "AM"],
+  "aficiones": ["Gimnasio", "Lectura técnica"],
+  "hobbies": ["Fotografía", "Senderismo"]
+}
+
+
+**Código HTML + CSS**
+
+<!doctype html><html lang="es"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>CV</title>
+<style>
+ body{margin:0;font-family:system-ui,Arial;background:#0f172a;color:#e5e7eb}
+ header,footer{padding:12px 14px;border-bottom:1px solid #1f2937}footer{border-top:1px solid #1f2937;border-bottom:0;text-align:center;color:#94a3b8}
+ .w{max-width:980px;margin:auto;padding:0 10px} a{color:#22d3ee;text-decoration:none}
+ section{margin:12px 0;padding:12px;border:1px solid #1f2937;border-radius:12px;background:#111827}
+ h2{margin:0 0 8px;color:#22d3ee;font-size:1rem}
+ .g{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:10px}
+ .i{border:1px dashed #223047;border-radius:10px;padding:10px}
+ .m{color:#94a3b8}.p{display:inline-block;border:1px solid #334155;border-radius:999px;padding:4px 8px;margin:4px 6px 0 0;color:#94a3b8}
+ template{display:none}
+</style>
+<header><div class="w">
+  <h1 id="n">Javier Carrasco Ferrús</h1>
+  <p><a id="e" href="#">javicarrascoferrus@gmail.com</a> · <span id="t">+34 685 573 959</span></p>
+  <p class="m"><span id="d">Calle Gran Vía 123, Valencia</span> · <a id="w" href="#" target="_blank">Perfil</a></p>
+  <p id="pf" class="m"></p>
+</div></header>
+
+<main class="w">
+  <section><h2>Formación</h2><div id="f" class="g"></div></section>
+  <section><h2>Experiencia</h2><div id="x"></div></section>
+  <section><h2>Idiomas</h2><div id="id"></div></section>
+  <section><h2>Vehículos</h2><div id="vh"></div></section>
+  <section><h2>Aficiones</h2><div id="af"></div></section>
+  <section><h2>Hobbies</h2><div id="hb"></div></section>
+
+  <template id="tc"><div class="i"><strong class="a"></strong><div class="m b"></div><div class="m c"></div><ul class="k"></ul></div></template>
+  <template id="tp"><span class="p"></span></template>
+</main>
+
+<footer>© <span id="y"></span></footer>
+
+	
+	He montado un CV que desacopla datos y presentación: el JSON concentra la información del currículum y el CSS la pinta en el HTML con plantillas.
+La estructura cubre todas las secciones típicas de un CV y es fácil de mantener: cambiar el contenido no obliga a tocar el HTML, solo el JSON.
