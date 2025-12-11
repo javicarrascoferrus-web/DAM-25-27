@@ -5,7 +5,7 @@ Impresión en pantalla:
 echo "Hola mundo";
 
 
-Variables
+Variables:
 
 No se declara el tipo y siempre llevan $ delante.
 
