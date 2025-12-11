@@ -1,1 +1,16 @@
+<Git es un sistema de control de versiones distribuido que permite gestionar los cambios realizados en el código fuente de un proyecto. Se utiliza para registrar el historial de modificaciones y colaborar entre varios desarrolladores.
 
+Antes de empezar a usar Git, se debe configurar la identidad del usuario para que cada commit (confirmación de cambios) quede registrado correctamente.
+Teclearemos los siguientes comandos para ello:
+
+git config --global user.name "Javier"
+
+git config --global user.email "javicarrascoferrus#gmail.com"
+
+
+Clonar significa crear una copia local de un repositorio remoto alojado, por ejemplo, en GitHub. El comando general es:
+
+git clone https://github.com/usuario/proyecto-JavierCarrasco.git
+
+
+Configurar Git correctamente y conocer su flujo básico (configurar < clonar < modificar < confirmar < subir) es esencial para trabajar de forma ordenada en proyectos colaborativos.
