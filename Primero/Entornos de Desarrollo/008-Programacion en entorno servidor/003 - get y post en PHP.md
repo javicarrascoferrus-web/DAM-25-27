@@ -11,8 +11,12 @@ pagina.php?nombre=Javier&edad=20
 
 PHP:
 
-$nombre = $_GET["nombre"];
+$nombre = $_GET["nombre"]; 
+
+
 $edad = $_GET["edad"];
+
+
 echo $nombre;
 
 
