@@ -30,7 +30,7 @@ Se reciben con $_POST.
 
 
 
-PHP (procesar.php):
+**PHP (procesar.php):**
 
 $usuario = $_POST["usuario"];
 
