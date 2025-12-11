@@ -1,4 +1,4 @@
-En clase vimos que ciertas operaciones “revientan” con errores típicos (por ejemplo, división por cero, tipos no válidos, o conversiones fallidas). La idea de esta práctica es partir de una función que falla, identificar por qué falla y luego robustecerla con try/except para capturar casos y responder de forma controlada, en lugar de que el programa se caiga.
+La idea de esta práctica es partir de una función que falla, identificar por qué falla y luego robustecerla con try/except para capturar casos y responder de forma controlada, en lugar de que el programa se caiga.
 
 Yo voy a usar un ejemplo muy común: una mini “calculadora” que recibe dos operandos y una operación ("suma", "resta", "multiplicacion", "division"). Primero mostraré la versión frágil (que lanza errores), y después la versión protegida con manejo extensivo de excepciones.
 
