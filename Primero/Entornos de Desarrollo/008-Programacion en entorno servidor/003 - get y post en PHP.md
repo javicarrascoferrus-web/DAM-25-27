@@ -24,12 +24,6 @@ Se usan para formularios, contraseñas, registros, etc.
 
 Se reciben con $_POST.
 
-Formulario HTML:
-
-<form method="POST" action="procesar.php">
-  <input type="text" name="usuario">
-  <button type="submit">Enviar</button>
-</form>
 
 
 PHP (procesar.php):
