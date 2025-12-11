@@ -1,4 +1,4 @@
-GET:
+**GET:**
 
 Los datos viajan por la URL.
 
@@ -9,7 +9,7 @@ Se reciben con $_GET.
 Ejemplo de URL:
 pagina.php?nombre=Javier&edad=20
 
-PHP:
+**PHP:**
 
 $nombre = $_GET["nombre"]; 
 
@@ -20,7 +20,7 @@ $edad = $_GET["edad"];
 echo $nombre;
 
 
-POST:
+**POST:**
 
 Los datos no aparecen en la URL.
 
