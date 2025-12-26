@@ -5,3 +5,4 @@ le tiene que dar de hostias la vida que pa que
 por subnormal
 ttu creees que por 1300€ va a vivir¿ jkajaja menuda puta
 estoy igual ede deceepcionado que Mark zuckerber cuando le dehjo la novia
+ que assco che
