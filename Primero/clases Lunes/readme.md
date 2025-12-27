@@ -11,3 +11,6 @@ le deseo lo mejor porque ola quiero y la aprecio, y creo que ella tambien
 
 
 tiempo al tiempo javi, no te agobies prim
+
+
+creo que de toda la mierda que recuerda, todavia ve algo de luz en lo de vosotros, aunque ya nunca más volverá
