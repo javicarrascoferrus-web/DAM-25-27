@@ -14,3 +14,5 @@ tiempo al tiempo javi, no te agobies prim
 
 
 creo que de toda la mierda que recuerda, todavia ve algo de luz en lo de vosotros, aunque ya nunca más volverá
+
+en fin, es su futuro que haga lo que quiera, yo me voy a colocar en mi empressa
