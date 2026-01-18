@@ -1,16 +1,1 @@
-sdfgsdfggdsgf
-sdfgsfgsgddg
-sdfgsfgsfgsg
-sdfgsgdsfgsgdsgd
-sfdgsdfgsfgdsg
-sdfgsfgsfsfg
-sdfgsfgsgdgds
-sfdgsgsfggfdgdd
-sdfgsdgsdfgdgsdf
-rewtrtwtewrtw
-wertrtwrtwtwt
-wertwertwewtewtewt
-wertwerttwtewtewrt
-wertwertwtewrtewt
-ertwertwtwtwtewrtwerttwtwwtert
-wertwertwtwtewtw
+wertwertwrtr
