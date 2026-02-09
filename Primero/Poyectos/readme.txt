@@ -1,14 +1,1 @@
-wqerwqerqwqe
-werwqerrq
-ewqrererwqeereq
-ewrwqerewrerewrqwererwqr
-werqwqerwq
-qwerqwerqer
-werwqqwerwqerw
-wqerwqerqwrew
-wqerqerqrwe
-wqerqwererqq
-ewerqrqrq
-rqwerrrq
-ewrqwrerqr
-wqerqqwre
+werwerqrwer
