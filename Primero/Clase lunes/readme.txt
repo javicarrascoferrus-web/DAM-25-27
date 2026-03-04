@@ -1,2 +1,3 @@
 preparacion proyecto: 
 eease una veZ...
+hoy que toca mini o silo?
