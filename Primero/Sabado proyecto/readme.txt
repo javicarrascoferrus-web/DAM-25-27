@@ -7,3 +7,6 @@ lo iba hacer pero al final no , lo he pensado mejor
 por vuestro hijos, enhorabuena.
 
 20 de marzo, hoy he estado todo el dia descansando. despues de pasar unas fallas agotadoras; toca descansar...
+
+21 de Marzo, hoy es sabado de relax o sabado de gym? puede que todo a la vez
+todo depende de ti! 
