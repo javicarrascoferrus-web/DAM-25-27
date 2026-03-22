@@ -7,3 +7,6 @@ He felicitado a Miriam, pero ha pasado de mi, en fin, allá donde estés, te des
 
 21 de Marzo, hoy es sabado de relax o sabado de gym? puede que todo a la vez
 todo depende de ti! 
+
+22 de Marzo, ni gym ni relax, me fui de almuerzo y la lié
+eso si, estoy al dia con la despensa!
