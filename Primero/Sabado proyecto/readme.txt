@@ -10,3 +10,6 @@ todo depende de ti!
 
 22 de Marzo, ni gym ni relax, me fui de almuerzo y la lié
 eso si, estoy al dia con la despensa!
+
+23 de MARZO, me encuentro un poco regular, estoy constipado y a la vez sin ganas de nada, pero mi fuerza de voluntad es mucho más grande que 
+esta pereza.
