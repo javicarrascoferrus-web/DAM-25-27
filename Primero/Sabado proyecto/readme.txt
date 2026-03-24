@@ -13,3 +13,6 @@ eso si, estoy al dia con la despensa!
 
 23 de MARZO, me encuentro un poco regular, estoy constipado y a la vez sin ganas de nada, pero mi fuerza de voluntad es mucho más grande que 
 esta pereza.
+
+24 Marzo, hoy es de esos dias que no soy productivo en nada, solo lo soy
+en hacer: nada
