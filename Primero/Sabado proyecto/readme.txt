@@ -19,4 +19,4 @@ en hacer: nada
 
 25 Marzo, fui a comprar y limpié un poco mi casa, lo tenia pendiente, asi que dos cosas menos!
  
-26 de Marzo: 
+26 de Marzo, 
