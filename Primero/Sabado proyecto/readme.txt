@@ -16,3 +16,6 @@ esta pereza.
 
 24 Marzo, hoy es de esos dias que no soy productivo en nada, solo lo soy
 en hacer: nada
+
+25 Marzo, fui a comprar y limpié un poco mi casa, lo tenia pendiente, asi que dos cosas menos!
+
