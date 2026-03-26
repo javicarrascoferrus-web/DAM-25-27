@@ -18,5 +18,5 @@ esta pereza.
 en hacer: nada
 
 25 Marzo, fui a comprar y limpié un poco mi casa, lo tenia pendiente, asi que dos cosas menos!
- hoy tratate de 
-dssds
+ 
+26 de Marzo: 
