@@ -21,3 +21,4 @@ en hacer: nada
  
 26 de Marzo, he estado en la clase del Jueves y he tomado algunos apuntes. También fui a ver la película de Torrente al cine, un dia más...
 27 de Marzo, mi mañana ha sido super eficiente, tenia 5 cosas pendientes y las he hecho todas del tirón, ya puedo dormir tranquilo :D
+un di amas
