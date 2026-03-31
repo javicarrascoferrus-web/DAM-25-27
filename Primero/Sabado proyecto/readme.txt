@@ -23,4 +23,4 @@ en hacer: nada
 27 de Marzo, mi mañana ha sido super eficiente, tenia 5 cosas pendientes y las he hecho todas del tirón, ya puedo dormir tranquilo :D
 28 Marzo, volvemos a casa despues de un mini-load contundente
 31 Marzo, dia de cobro, no ha estado nada mal, se van notando los incentivos
-1 de abril
+1 de abril, este mes mi cumpleaños
