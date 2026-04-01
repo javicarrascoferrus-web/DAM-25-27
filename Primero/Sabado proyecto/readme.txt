@@ -24,3 +24,4 @@ en hacer: nada
 28 Marzo, volvemos a casa despues de un mini-load contundente
 31 Marzo, dia de cobro, no ha estado nada mal, se van notando los incentivos
 1 de abril, este mes mi cumpleaños, empezamos mes con muy buena nomina, trabajo estable y amigos estupendos, se nota que viene el buen tiempo
+Ha sido un dia productivo, pero no he adelantado proyectos 😕
