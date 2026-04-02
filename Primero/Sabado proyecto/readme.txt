@@ -25,3 +25,4 @@ en hacer: nada
 31 Marzo, dia de cobro, no ha estado nada mal, se van notando los incentivos
 1 de abril, este mes mi cumpleaños, empezamos mes con muy buena nomina, trabajo estable y amigos estupendos, se nota que viene el buen tiempo
 Ha sido un dia productivo, pero no he adelantado proyectos 😕
+2 Abril, dilema entre ir a Barraca o no ir, habiendo tocado sorteo 
