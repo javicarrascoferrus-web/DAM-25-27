@@ -26,3 +26,4 @@ en hacer: nada
 1 de abril, este mes mi cumpleaños, empezamos mes con muy buena nomina, trabajo estable y amigos estupendos, se nota que viene el buen tiempo
 Ha sido un dia productivo, pero no he adelantado proyectos 😕
 2 Abril, dilema entre ir a Barraca o no ir, habiendo tocado sorteo de dos entradas gratuitas... en fin el azar.
+3 Abril, al final no fuimos a Barraca, pero adelanté todas las tareas domesticas
