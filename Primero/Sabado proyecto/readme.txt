@@ -27,4 +27,5 @@ en hacer: nada
 Ha sido un dia productivo, pero no he adelantado proyectos 😕
 2 Abril, dilema entre ir a Barraca o no ir, habiendo tocado sorteo de dos entradas gratuitas... en fin el azar.
 3 Abril, al final no fuimos a Barraca, pero adelanté todas las tareas domesticas
-5 Abril, ha hecho un dia esplendido
+5 Abril, ha hecho un dia esplendido, estuvimos tomando café, paseando y volando la cometa...
+mientras tanto, Raul en Marina viendo a Carola
