@@ -29,3 +29,4 @@ Ha sido un dia productivo, pero no he adelantado proyectos 😕
 3 Abril, al final no fuimos a Barraca, pero adelanté todas las tareas domesticas
 5 Abril, ha hecho un dia esplendido, estuvimos tomando café, paseando y volando la cometa...
 mientras tanto, Raul en Marina viendo a Carola
+6 Abril, dia de descanso y perreria con Lau, en casa, despues de una noche de borrachera
