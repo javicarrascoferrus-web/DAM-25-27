@@ -30,3 +30,4 @@ Ha sido un dia productivo, pero no he adelantado proyectos 😕
 5 Abril, ha hecho un dia esplendido, estuvimos tomando café, paseando y volando la cometa...
 mientras tanto, Raul en Marina viendo a Carola
 6 Abril, dia de descanso y perreria con Lau, en casa, despues de una noche de borrachera
+se puso bien arrecha
