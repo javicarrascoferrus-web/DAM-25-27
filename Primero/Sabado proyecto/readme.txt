@@ -32,4 +32,4 @@ mientras tanto, Raul en Marina viendo a Carola
 6 Abril, dia de descanso y vagueza con la tita Lau, en casa, despues de una noche de borrachera
 se puso bien arrecha
 7 Abril, este mes empieza intenso, por cierto, creo que hoy es el cumple de Sanchez
-8 Abril
+8 Abril, hoy me depara...
