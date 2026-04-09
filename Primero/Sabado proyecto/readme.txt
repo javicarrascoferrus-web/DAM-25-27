@@ -33,4 +33,4 @@ mientras tanto, Raul en Marina viendo a Carola
 se puso bien arrecha
 7 Abril, este mes empieza intenso, por cierto, creo que hoy es el cumple de Sanchez
 8 Abril, adelanté conocimientos del proyecto y aprendí a manejar MySQL
-9 Abril, casi mitad de mes
+9 Abril, casi mitad de mes, hoy ire al gym y adelantaré proyecto
