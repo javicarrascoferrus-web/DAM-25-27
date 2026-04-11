@@ -36,3 +36,4 @@ se puso bien arrecha
 9 Abril, casi mitad de mes, hoy ire al gym y adelantaré proyecto...
 10 Abril, hoy es dia contundente, he quedado para comer con mi padre y cenar con las nenas del viaje, vamos un dia completo..
 11 Abril, un sabado completo de descanso, ha salido nublado pero aun asi me apetece sonreir. Adelantamiento de proyecto con éxito!
+12 Abril, sinceramente ya estamos a Abril y ni me he enterado, hoy será domingo de descanso
