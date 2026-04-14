@@ -38,3 +38,4 @@ se puso bien arrecha
 11 Abril, un sabado completo de descanso, ha salido nublado pero aun asi me apetece sonreir. Adelantamiento de proyecto con éxito!
 12 Abril, sinceramente ya estamos a Abril y ni me he enterado, hoy será domingo de descanso
 13 Abril, dia de adelanto del proyecto y descanso. Segunda pascua en Valencia
+14 Abril, ya mitad de mes, está siendo un mes magnifico
