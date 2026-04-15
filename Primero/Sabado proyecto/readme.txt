@@ -39,3 +39,4 @@ se puso bien arrecha
 12 Abril, sinceramente ya estamos a Abril y ni me he enterado, hoy será domingo de descanso
 13 Abril, dia de adelanto del proyecto y descanso. Segunda pascua en Valencia
 14 Abril, ya mitad de mes, está siendo un mes magnifico, hoy le puse algo nuevo a mi proyecto, 'El Perfil', va mejorando... :)
+15 Abril, mucho estudio, poco gym, y el mes sigue avanzando...
