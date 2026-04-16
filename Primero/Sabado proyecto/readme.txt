@@ -40,4 +40,4 @@ se puso bien arrecha
 13 Abril, dia de adelanto del proyecto y descanso. Segunda pascua en Valencia
 14 Abril, ya mitad de mes, está siendo un mes magnifico, hoy le puse algo nuevo a mi proyecto, 'El Perfil', va mejorando... :)
 15 Abril, mucho estudio, poco gym, y el mes sigue avanzando... me sigue o no me sigue?
-16 Abril, cambio botellas de AquaService, tambien
+16 Abril, cambio botellas de AquaService solo, el colchón se aplaza a mañana
