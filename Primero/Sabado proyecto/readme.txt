@@ -42,3 +42,4 @@ se puso bien arrecha
 15 Abril, mucho estudio, poco gym, y el mes sigue avanzando... me sigue o no me sigue?
 16 Abril, cambio botellas de AquaService solo, el colchón se aplaza a mañana
 17 Abril, hoy si que ha habido colchon, menudo show para subir eso
+18 Abril,sabado sabaditooo
