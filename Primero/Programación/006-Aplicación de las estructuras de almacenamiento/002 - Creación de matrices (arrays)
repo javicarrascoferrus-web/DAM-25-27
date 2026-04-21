@@ -1,1 +1,5 @@
 
+Un array es una estructura que guarda varios datos del mismo tipo.
+Se accede a sus elementos mediante índices (posición).
+Su tamaño suele ser fijo.
+Ejemplo: int[] numeros = {1, 2, 3};
