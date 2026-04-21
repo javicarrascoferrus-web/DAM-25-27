@@ -19,7 +19,7 @@ Cada documento HTML tiene una estructura jerárquica compuesta por el doctype, l
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Página de inicio de José</title>
+  <title>Página de inicio de Javi</title>
 </head>
 <body>
   <h1>Bienvenido a la página de José</h1>
