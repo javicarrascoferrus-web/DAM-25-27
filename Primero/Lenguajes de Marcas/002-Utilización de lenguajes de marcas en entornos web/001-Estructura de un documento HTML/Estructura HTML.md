@@ -22,7 +22,7 @@ Cada documento HTML tiene una estructura jerárquica compuesta por el doctype, l
   <title>Página de inicio de Javi</title>
 </head>
 <body>
-  <h1>Bienvenido a la página de José</h1>
+  <h1>Bienvenido a la página de Javi</h1>
   <p>Esta es mi primera página web creada con la estructura básica de HTML.</p>
 </body>
 </html>
