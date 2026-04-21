@@ -1,1 +1,5 @@
 
+Son estructuras dinámicas para almacenar datos.
+Listas: permiten repetidos y mantienen orden.
+Conjuntos: no permiten duplicados.
+Diccionarios: almacenan clave-valor.
