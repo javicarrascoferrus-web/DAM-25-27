@@ -1,1 +1,5 @@
 
+Las cadenas (String) almacenan texto.
+Se pueden manipular (buscar, cortar, reemplazar).
+Las expresiones regulares permiten buscar patrones en texto.
+Ejemplo: validar emails o números.
