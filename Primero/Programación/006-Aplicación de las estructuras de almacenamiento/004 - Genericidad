@@ -1,1 +1,5 @@
 
+Permite crear código reutilizable para distintos tipos de datos.
+Se usan parámetros genéricos (<T>).
+Evita duplicar código y mejora la seguridad de tipos.
+Ejemplo: List<T>
