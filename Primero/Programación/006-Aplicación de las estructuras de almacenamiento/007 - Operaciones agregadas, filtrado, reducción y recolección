@@ -1,1 +1,6 @@
 
+Permiten trabajar con colecciones de datos.
+Filtrado: seleccionar elementos.
+Map: transformar datos.
+Reduce: obtener un resultado único (ej: suma).
+Muy usadas en programación moderna.
