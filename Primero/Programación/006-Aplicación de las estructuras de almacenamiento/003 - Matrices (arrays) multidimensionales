@@ -1,1 +1,5 @@
 
+Son arrays con más de una dimensión (ej: filas y columnas).
+Se usan para representar tablas o matrices.
+Acceso mediante varios índices: matriz[fila][columna].
+Ejemplo: int[][] matriz = new int[3][3];
