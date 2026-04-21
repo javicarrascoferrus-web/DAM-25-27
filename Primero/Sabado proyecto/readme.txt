@@ -45,4 +45,4 @@ se puso bien arrecha
 18 Abril,sabado sabaditooo, dia completamente de descanso ..
 19 Abril, fui con Laura a Ontinyent, un poco lejos pero bueno, me gusta ayudar a la gente, comida colombiana exquisita!
 20 Abril, me conecté a clase y adelanté teoría.
-21 Abril
+21 Abril, 
