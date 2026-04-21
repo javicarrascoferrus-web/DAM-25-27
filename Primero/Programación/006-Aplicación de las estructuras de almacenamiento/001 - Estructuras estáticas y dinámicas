@@ -1,1 +1,5 @@
 
+Las estructuras de datos permiten almacenar información.
+Las estáticas tienen tamaño fijo (arrays).
+Las dinámicas pueden crecer o reducirse (listas, pilas, colas).
+Se eligen según la flexibilidad y uso de memoria.
