@@ -46,3 +46,4 @@ se puso bien arrecha
 19 Abril, fui con Laura a Ontinyent, un poco lejos pero bueno, me gusta ayudar a la gente, comida colombiana exquisita!
 20 Abril, me conecté a clase y adelanté teoría.
 21 Abril, adelanto del proyecto, final y ejercicios
+23 Abril, hoy cumplo 29 añazos; quien lo diria...
