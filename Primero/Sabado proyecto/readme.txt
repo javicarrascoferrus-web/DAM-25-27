@@ -48,4 +48,5 @@ se puso bien arrecha
 21 Abril, adelanto del proyecto, final y ejercicios
 23 Abril, hoy cumplo 29 añazos; quien lo diria...
 24 Abril, cumple de Samuel, otro dia más...
-25 Abril, sabado sabadito... descanso o trasnocho?
+25 Abril, sabado sabadito... descanso o trasnocho? 
+26 Abril, Domingo, dia de descanso... y de adelantar proyectos!!!
