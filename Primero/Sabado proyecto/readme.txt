@@ -51,3 +51,4 @@ se puso bien arrecha
 25 Abril, sabado sabadito... descanso o trasnocho? 
 26 Abril, Domingo, dia de descanso... y de adelantar proyectos!!!!
 27 Abril, Lunes de perros...
+28 Abril, cambié el grifo de la cocina y adelanté proyectos... :D
