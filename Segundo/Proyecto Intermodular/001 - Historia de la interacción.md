@@ -30,5 +30,4 @@ Moviles
 Se populariza internet
 
 Siri - interfaz de audio, micrófono dictas lo que necesitas, y el sistema te devuelve voz
-devuelve voz
 
