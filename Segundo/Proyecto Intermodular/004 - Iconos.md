@@ -11,3 +11,6 @@ Recomiendo usar Inkscape como herramienta sencilla para crear vuestros iconos
 
 1.-Abrimos Inkscape
 2.-Plantilla cuadrada
+3.-Creamos  una forma básica
+
+Ejercicio: Cread una lista de los iconos que necesitaréis en vuestras aplicaciones
