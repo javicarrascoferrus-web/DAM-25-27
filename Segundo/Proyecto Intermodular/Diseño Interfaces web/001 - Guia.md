@@ -20,3 +20,6 @@ Fuente de párrafo - normal, legible
 Usos incorrectos
 
 Aplicaciones - muestras del uso de tu logo
+
+Ejercicio de subunidad didáctica: crear un manual de identidad corporativa, conteniendo
+esos elementos, pero debe estar razonado por cada uno de vosotros
