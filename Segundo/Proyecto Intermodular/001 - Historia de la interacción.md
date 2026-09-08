@@ -10,3 +10,16 @@ Años 70
 Todo codigo
 Todo terminal 
 No hay mouse
+
+Historia del momento en el que Steve Jobs hace la excursior a Xerox Parc
+Unos investigadores de Xerox le enseñan un prototipo de primer ratos
+Xerox no tenia visión comercial
+Apple tenia visión comercial
+
+Años 80
+Teclado - raton
+
+Años 90
+Windows 95 - Pentium MMX - Revolución multimedia
+Teclado, raton, microfono
+Pantalla, impresora, altavoces
