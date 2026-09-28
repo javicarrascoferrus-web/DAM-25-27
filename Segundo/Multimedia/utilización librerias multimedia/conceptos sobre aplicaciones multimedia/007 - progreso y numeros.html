@@ -7,7 +7,7 @@
 <button id="atras">Atras</button>
 
 <input type="range" id="volumen" min="0" max="1" step="0.01" value="1">
-<progress></progress>
+<input type="range" id="progreso" max=1 min=0 step=0.01>
 
 <script>
   let video = document.querySelector("video")
@@ -17,7 +17,7 @@
   
   let adelante = document.querySelector("#adelante")
   let atras = document.querySelector("#atras")
-  let progreso = document.querySelector("progress")
+  let progreso = document.querySelector("#progreso")
 
   reproducir.onclick = function(){
     video.play()
@@ -38,7 +38,12 @@
     video.volume = this.value
   }
   
-  
+  video.ontimeupdate = function(){
+      progreso.setAttribute("value",video.currentTime/video.duration)
+  }
+  progreso.onchange = function(){
+  	video.currentTime = this.value*video.duration
+  }
   
   console.log(video)
 </script>
