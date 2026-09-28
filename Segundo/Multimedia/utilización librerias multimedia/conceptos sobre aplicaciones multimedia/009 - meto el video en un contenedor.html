@@ -56,7 +56,11 @@
   let videos = document.querySelectorAll("video")
   videos.forEach(function(video){
   	console.log("He atrapado un video")
-    
+    let contenedor = document.createElement("div")
+    contenedor.classList.add("jvvideo")
+    document.querySelector("body").appendChild(contenedor)
+    video.remove()
+    contenedor.appendChild(video)
   })
 </script>
   </body>
